@@ -31,7 +31,7 @@ public class StaffChatToggle implements Listener {
         String msg = event.getMessage();
 
         //Create thew newmsg with prefix to differentiate
-        String newmsg = ChatColor.BLUE + "[SC]" + msg;
+        String newmsg = ChatColor.BLUE + "[SC] " + player.getName() + ": " + ChatColor.GRAY + msg;
 
 
                 //Player is inStaffChat
