@@ -1,0 +1,9 @@
+name: StaffChat
+author: Glenjendary
+main: com.glenjendary.staffchat.main
+description: Toggle staffchat on and off rather then /sc [msg]
+commands:
+  staffchat:
+    usage: /staffchat
+    description: Use this to toggle Staff Chat ON or OFF!
+    aliases: [sc, staffc, schat]
