@@ -1,6 +1,7 @@
 name: StaffChat
 author: Glenjendary
 main: com.glenjendary.staffchat.main
+version: 0.1
 description: Toggle staffchat on and off rather then /sc [msg]
 commands:
   staffchat:
